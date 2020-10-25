@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="网站样式文件">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="213">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603617738859</updated>
-      <workItem from="1603617740351" duration="8894000" />
+      <workItem from="1603617740351" duration="9450000" />
     </task>
     <task id="LOCAL-00001" summary="文件结构">
       <created>1603618178020</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603620976062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="213">
+      <created>1603641536308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603641536308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +134,8 @@
     <MESSAGE value="引用文件提交" />
     <MESSAGE value="引用文件修改" />
     <MESSAGE value="网站样式文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="网站样式文件" />
+    <MESSAGE value="213" />
+    <option name="LAST_COMMIT_MESSAGE" value="213" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="474" key="#Chrome_Settings" timestamp="1603621807116">
@@ -151,10 +158,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="121" y="201" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603621995516" />
-    <state x="758" y="347" key="Vcs.Push.Dialog.v2" timestamp="1603620992998">
+    <state x="758" y="347" key="Vcs.Push.Dialog.v2" timestamp="1603641548598">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="758" y="347" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603620992998" />
+    <state x="758" y="347" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603641548598" />
     <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1603621185024">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
