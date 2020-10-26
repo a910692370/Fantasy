@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="213">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/描述.txt" beforeDir="false" afterPath="$PROJECT_DIR$/描述.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603617738859</updated>
       <workItem from="1603617740351" duration="9450000" />
+      <workItem from="1603693094209" duration="167000" />
     </task>
     <task id="LOCAL-00001" summary="文件结构">
       <created>1603618178020</created>
@@ -127,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -146,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="650" y="487" key="#Firefox_Settings/0.0.1920.1050@0.0.1920.1050" timestamp="1603621599485" />
-    <state x="638" y="330" key="#Notifications" timestamp="1603620085149">
+    <state x="638" y="330" key="#Notifications" timestamp="1603693110555">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603620085149" />
+    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603693110555" />
     <state x="647" y="372" key="#Web_Browsers" timestamp="1603621955454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
