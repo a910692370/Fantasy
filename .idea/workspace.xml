@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="213">
+    <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="687">
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/图标.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/图标.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/图标.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,19 +56,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Web系列\Fantasy\images" />
-      <recent name="E:\2020study\Bootstrap\Fantasy\images" />
-      <recent name="E:\2020study\Bootstrap\Fantasy\js" />
-      <recent name="E:\2020study\Bootstrap\Fantasy\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\2020study\Bootstrap\Fantasy" />
       <recent name="E:\2020study\Bootstrap\Fantasy\lib\css" />
       <recent name="E:\2020study\Bootstrap\Fantasy\lib\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web系列\Fantasy\images" />
+      <recent name="D:\Web系列\Fantasy" />
+      <recent name="E:\2020study\Bootstrap\Fantasy\images" />
+      <recent name="E:\2020study\Bootstrap\Fantasy\js" />
+      <recent name="E:\2020study\Bootstrap\Fantasy\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +81,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603617738859</updated>
       <workItem from="1603617740351" duration="9450000" />
-      <workItem from="1603693094209" duration="3821000" />
+      <workItem from="1603693094209" duration="4377000" />
+      <workItem from="1603852295274" duration="41000" />
+      <workItem from="1603852373761" duration="14987000" />
     </task>
     <task id="LOCAL-00001" summary="文件结构">
       <created>1603618178020</created>
@@ -122,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603693300559</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="687">
+      <created>1603697981017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603697981017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +160,8 @@
     <MESSAGE value="网站样式文件" />
     <MESSAGE value="213" />
     <MESSAGE value="mi提交第一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="mi提交第一次" />
+    <MESSAGE value="687" />
+    <option name="LAST_COMMIT_MESSAGE" value="687" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="474" key="#Chrome_Settings" timestamp="1603621807116">
@@ -159,22 +172,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="650" y="487" key="#Firefox_Settings/0.0.1920.1050@0.0.1920.1050" timestamp="1603621599485" />
-    <state x="638" y="330" key="#Notifications" timestamp="1603693110555">
+    <state x="638" y="330" key="#Notifications" timestamp="1603863713229">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603693110555" />
+    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603863713229" />
     <state x="647" y="372" key="#Web_Browsers" timestamp="1603621955454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="647" y="372" key="#Web_Browsers/0.0.1920.1050@0.0.1920.1050" timestamp="1603621955454" />
-    <state x="121" y="201" width="998" height="708" key="SettingsEditor" timestamp="1603621995516">
+    <state x="546" y="195" width="998" height="708" key="SettingsEditor" timestamp="1603865043633">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="121" y="201" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603621995516" />
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603693312180">
+    <state x="546" y="195" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603865043633" />
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603697999710">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603693312180" />
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603697999710" />
     <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1603621185024">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
