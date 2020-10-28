@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="687">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +81,8 @@
       <workItem from="1603852295274" duration="41000" />
       <workItem from="1603852373761" duration="14987000" />
       <workItem from="1603884054363" duration="2657000" />
+      <workItem from="1603889960751" duration="26000" />
+      <workItem from="1603899131765" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="文件结构">
       <created>1603618178020</created>
@@ -182,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="546" y="195" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603884753720" />
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603697999710">
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603889974827">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603697999710" />
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603889974827" />
     <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1603884958409">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
