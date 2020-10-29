@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23686e0c-812c-4882-9249-af2251a8dde2" name="Default Changelist" comment="687">
-      <change afterPath="$PROJECT_DIR$/images/rc1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rc2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rc3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_29_12_05__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_10_29_12_05__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,18 +58,17 @@
     <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\2020study\Bootstrap\Fantasy" />
+      <recent name="E:\2020study\Bootstrap\Fantasy\lib\css" />
+      <recent name="E:\2020study\Bootstrap\Fantasy\lib\js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Web系列\Fantasy\images" />
       <recent name="D:\Web系列\Fantasy" />
       <recent name="E:\2020study\Bootstrap\Fantasy\images" />
       <recent name="E:\2020study\Bootstrap\Fantasy\js" />
       <recent name="E:\2020study\Bootstrap\Fantasy\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Web系列\Fantasy\images" />
-      <recent name="E:\2020study\Bootstrap\Fantasy" />
-      <recent name="E:\2020study\Bootstrap\Fantasy\lib\css" />
-      <recent name="E:\2020study\Bootstrap\Fantasy\lib\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,8 +83,9 @@
       <workItem from="1603693094209" duration="4377000" />
       <workItem from="1603852295274" duration="41000" />
       <workItem from="1603852373761" duration="14987000" />
-      <workItem from="1603952085626" duration="1297000" />
-      <workItem from="1603962629014" duration="2958000" />
+      <workItem from="1603884054363" duration="2657000" />
+      <workItem from="1603889960751" duration="26000" />
+      <workItem from="1603899131765" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="文件结构">
       <created>1603618178020</created>
@@ -175,25 +174,29 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="650" y="487" key="#Firefox_Settings/0.0.1920.1050@0.0.1920.1050" timestamp="1603621599485" />
-    <state x="638" y="330" key="#Notifications" timestamp="1603952375322">
+    <state x="638" y="330" key="#Notifications" timestamp="1603863713229">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603952375322" />
+    <state x="638" y="330" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603863713229" />
     <state x="647" y="372" key="#Web_Browsers" timestamp="1603621955454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="647" y="372" key="#Web_Browsers/0.0.1920.1050@0.0.1920.1050" timestamp="1603621955454" />
-    <state x="546" y="195" width="998" height="708" key="SettingsEditor" timestamp="1603949237010">
+    <state x="546" y="195" width="998" height="708" key="SettingsEditor" timestamp="1603884753720">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="546" y="195" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603949237010" />
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603697999710">
+    <state x="546" y="195" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603884753720" />
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603889974827">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603697999710" />
-    <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1603963530375">
+    <state x="599" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603889974827" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1603980665886">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603963530375" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603980665886" />
+    <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1603980472586">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1219" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603980472586" />
   </component>
 </project>
