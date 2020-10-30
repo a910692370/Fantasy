@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="shortcuty icon" type="images/x-icon" href="favicon.ico" />
     <link rel="stylesheet" type="text/css" href="lib/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="lib/css/nprogress.css" />
     <title>test</title>
     <style>
         .dropdown:hover>.dropdown-menu{
@@ -64,9 +65,12 @@
 
         .ft-footer{
             width: 100%;
-            height: 300px;
+            height: 200px;
             margin-top: 100px;
             background-color: #9fcdff;
+        }
+        .ft-footer .ft-beian{
+            font-size: 12px;
         }
     </style>
 </head>
@@ -88,21 +92,22 @@
                                     <a class="nav-link" href="#">首页 <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Link</a>
+                                    <a class="nav-link" href="#">联系</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        Dropdown
+                                        列表
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
+                                        <a class="dropdown-item" href="#">列表1</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Something else here</a>
+                                        <a class="dropdown-item" href="#">列表2</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="#">列表3</a>
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link disabled" href="#">Disabled</a>
+                                    <a class="nav-link disabled" href="#">禁用</a>
                                 </li>
                             </ul>
                         </div>
@@ -177,10 +182,25 @@
         </div>
     </section>
 
-    <footer class="ft-footer"></footer>
+    <footer class="ft-footer d-flex justify-content-center align-items-end pb-3">
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-12 ft-beian text-center">
+                    <span>&copy;Fantasy版权所有.&nbsp;备案号：<a class="text-decoration-none" href="http://beian.miit.gov.cn" target="_blank">蜀ICP备18037445号-1</a></span>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 <script type="text/javascript" src="lib/js/jquery.js"></script>
 <script type="text/javascript" src="lib/js/popper.js"></script>
 <script type="text/javascript" src="lib/js/bootstrap.js"></script>
+<script type="text/javascript" src="lib/js/nprogress.js"></script>
+<script type="text/javascript">
+    NProgress.start();
+    $(function(){
+        NProgress.done();
+    });
+</script>
 </body>
 </html>
